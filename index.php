@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php echo '123';?>
 </body>
 </html>
