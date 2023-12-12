@@ -16,8 +16,9 @@
 
 /logs/*
 !/logs/empty
-
 # CakePHP 2
+
+.vscode/
 
 /app/tmp/*
 /app/Config/core.php
